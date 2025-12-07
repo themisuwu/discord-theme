@@ -26,7 +26,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: #FD9F95;
+  --main-theme-color: #0d1117;
 
   /*
     Main Theme Transparency
@@ -202,4 +202,5 @@
   --reaction-emoji-hover-background-color: rgba(255, 255, 255, 0.1);
   --reaction-emoji-hover-border-color: rgba(255, 255, 255, 0.2);
 }
+
 
